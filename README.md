@@ -1,3 +1,3 @@
 # my_Portfolio
 
-This is a sample text.
+This is where I store all of my projects
