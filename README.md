@@ -1,3 +1,3 @@
-# my_Portfolio
+# myPortfolio
 
 This is where I store all of my projects
